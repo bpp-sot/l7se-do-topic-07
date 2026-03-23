@@ -1,7 +1,7 @@
 # Green Lights, Red Flags
 
 **Topic 7 Breakout Exercise · Designing and Building Secure Software**  
-Level 7 Postgraduate · BPP University
+Level 7 Software Engineering · BPP University
 
 ---
 
